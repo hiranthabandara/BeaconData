@@ -29,3 +29,20 @@ Further Improvements
 Set up a shell script for this code, then this can be run as a daemon service (scheduler). So the code will run at a certain interval and update the tables with the latest data.
 Update DefaultSheetHandler to write the unsupported tabs into a different file/table so it can be processed later.
 Notify admin user about the failed database/S3 connectivities through an email.
+
+
+Readings
+
+https://www.sqlshack.com/getting-started-with-amazon-s3-and-python/
+https://docs.aws.amazon.com/redshift/latest/mgmt/connecting-using-workbench.html
+https://www.w3schools.com/python
+https://www.w3schools.com/python/pandas/default.asp
+
+https://stackoverflow.com/questions/37354105/find-the-end-of-the-month-of-a-pandas-dataframe-series
+https://stackoverflow.com/questions/19379120/how-to-read-a-config-file-using-python
+
+https://github.com/hiranthabandara/BeaconData
+https://docs.aws.amazon.com/redshift/latest/dg/copy-parameters-data-source-s3.html
+https://support.sisense.com/hc/en-us/community/posts/360037984993-Using-Python-to-Write-a-Create-Table-Statement-and-Load-a-CSV-into-Redshift
+
+https://stackabuse.com/the-factory-method-design-pattern-in-python
