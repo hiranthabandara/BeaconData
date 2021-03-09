@@ -6,15 +6,18 @@ Prerequisites
 
 Python 2.7
 pandas, boto3 and python-psycopg2 modules are installed
+
 Code downloaded and extracted to a local folder from https://github.com/hiranthabandara/BeaconData
+
 Rename config_tmp.ini to config.ini and update S3 and Redshift credentials
+
 Make sure the S3 bucket contains the 'Input.xlsx'
 
 Note: Code developed and tested on Ubuntu 14.04
 
 How to run?
 
-Run main.py
+Run the main.py
 
 How does it work?
 
